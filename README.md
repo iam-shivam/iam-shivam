@@ -1,82 +1,51 @@
-👋 Hi, I’m Shivam Makwana (iam-shivam)
+# 💫 About Me:
+Hi 👋, I’m **Shivam Makwana**, a **Software Developer** with **3.5+ years of experience** in building **scalable, secure, and high-performance backend systems**.
 
-🚀 Software Developer | Backend Engineer | Node.js & TypeScript
+I specialize in **Node.js, TypeScript, NestJS**, and modern backend architectures. I enjoy solving complex problems, optimizing database performance, and designing clean, maintainable APIs used in real-world production environments.
 
-I’m a backend-focused Software Developer with 3.5+ years of experience building scalable, secure, and high-performance applications.
-I specialize in Node.js, TypeScript, NestJS, and database-driven architectures with a strong focus on clean code and system reliability.
+🔹 Backend-focused developer  
+🔹 Strong in REST APIs, authentication & system design  
+🔹 Experience with SQL & NoSQL databases  
+🔹 Comfortable working with frontend teams (Angular / React)  
 
-🧠 About Me
+---
 
-💻 Backend-focused developer with real-world production experience
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makwana-shivam-0367881b8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shivammakwana.01@gmail.com)
 
-⚙️ Build REST APIs, real-time systems, and role-based platforms
+---
 
-🗄️ Strong in PostgreSQL, MySQL, MongoDB & query optimization
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-🔐 Hands-on with JWT, OAuth 2.0, RBAC
+---
 
-⚡ Experience with Redis, WebSockets, Cron jobs
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iam-shivam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iam-shivam&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivam&theme=tokyonight&hide_border=false&layout=compact)
 
-🤝 Collaborate closely with Angular / React frontend teams
+---
 
-📈 Continuously improving system design & performance
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-🛠️ Tech Stack
+---
 
-Languages & Runtime
-Node.js · TypeScript · JavaScript
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iam-shivam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-Frameworks
-NestJS · Express.js
+---
 
-Databases & ORMs
-PostgreSQL · MySQL · MongoDB · Prisma · TypeORM · Sequelize
-
-Auth & Performance
-JWT · OAuth 2.0 · RBAC · Redis · Socket.IO · Cron Jobs
-
-DevOps & Tools
-Docker · GitHub Actions · Swagger · Postman · AWS S3 · Jira
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iam-shivam&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-shivam&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivam&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
-🧩 Featured Projects
-🗳️ SmartBallot – Election & Polling Platform
-
-TypeScript-based backend using Node.js & Express
-
-Redis caching, JWT authentication, cron jobs
-
-Modular & production-ready architecture
-
-💼 InstaClaus – Financial Loan Platform
-
-Backend built with NestJS & PostgreSQL
-
-Role-based workflows (Admin, Employer, Employee)
-
-KYC verification, CSV uploads, email notifications
-
-🏀 Yo PlayBook – Sports Management Platform
-
-Role-based system for coaches, players & parents
-
-Social feed with photo/video uploads
-
-Sports e-commerce marketplace
-
-📈 Currently Focusing On
-
-Advanced Node.js & backend system design
-
-Writing scalable & maintainable architectures
-
-Performance tuning & API optimization
-
-Strong backend interview preparation
-
-📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/makwana-shivam-0367881b8
-
-📧 Email: shivammakwana.01@gmail.com
+⭐ *Thanks for visiting my GitHub profile!*
