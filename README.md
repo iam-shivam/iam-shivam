@@ -63,7 +63,7 @@ I actively work on **system design, API scalability, caching strategies, and rea
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/iam-shivam/iam-shivam/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
