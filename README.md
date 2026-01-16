@@ -62,17 +62,25 @@ I actively work on **system design, API scalability, caching strategies, and rea
 
 ---
 
-## 🐍 Contribution Snake (Auto-Generated)
-![Snake animation](https://github.com/iam-shivam/iam-shivam/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/iam-shivam/iam-shivam/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🧠 System Design & AI Focus
-- Designing **microservice-based systems**
-- API rate limiting, caching, fault tolerance
-- Background jobs, queues, and schedulers
-- Exploring **AI-assisted backend automation**
-- Clean architecture & scalable design patterns
+- Designing scalable **microservice-based architectures**
+- API rate limiting, caching & performance optimization
+- Background jobs, queues, schedulers & async workflows
+- Authentication, authorization & backend security best practices
+- Exploring **AI-assisted backend automation** for productivity
+- Clean architecture & long-term maintainability
+
+### 📌 What I Bring to a Team
+- Ownership-driven backend development
+- Production debugging & performance tuning
+- Clean, maintainable, and scalable system design
+- Strong collaboration with frontend & product teams
+
 
 ---
 
