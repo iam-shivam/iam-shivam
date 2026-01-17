@@ -21,9 +21,9 @@ I actively work on **system design, API scalability, caching strategies, and rea
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-shivam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-shivam&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivam&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iam-shivam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iam-shivam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
